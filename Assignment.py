@@ -66,7 +66,7 @@ def scrape_data(phone_number, email):
 
     return df
 
-phone_number = "8687988983"
+phone_number = "6395135030"
 email_address = "ghgoyal121@gmail.com"
 df = scrape_data(phone_number, email_address)
 print(df)
